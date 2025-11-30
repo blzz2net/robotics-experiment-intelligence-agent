@@ -166,6 +166,3 @@ Evaluation becomes scalable, repeatable, and research-driven.
 
 This repository is intended for academic and research use.
 Please cite the Kaggle Agents Intensive Capstone competition if reused.
-
-👉 a **GitHub badge section** (stars, issues, license)
-👉 a **cleaner README with diagrams included**
